@@ -18,10 +18,10 @@ Crédit : CC-BY
 - Des méthodologies, des outils, des savois être et des références pour
   - favoriser la collaboration et l'épanouissement,
   - faciliter la prise décisions,
-  - enclencher et favoriser les dynamiques d'amélioration continue
-  - développer l'esprit d'équipe et la culture d'entreprise
-  - faire émerger des solutions à des problèmes délicats
-  - résoudre des conflits interpersonnels
+  - favoriser les dynamiques d'amélioration continue,
+  - développer l'esprit d'équipe et la culture d'entreprise,
+  - faire émerger des solutions à des problèmes délicats,
+  - résoudre des conflits interpersonnels.
 
 ## Pourquoi c'est important ?
 
