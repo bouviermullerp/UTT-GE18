@@ -8,7 +8,7 @@ Crédit : CC-BY
 ---
 
 Bienvenue dans ce parcours/atelier, j'espère que vous allez bien.
-Pour commencer, chacun est invité à prendre la parole à tour de rôle pour se présenter en quelques mots, avec son prénom au minimum et s'il le souhaite qui il est, d'où il vient (où il a grandit) et l'entreprise dans laquelle il travaille.
+Pour commencer, chacun est invité à prendre la parole à tour de rôle pour se présenter en quelques mots, avec son prénom au minimum et s'il le souhaite qui il est, d'où il vient (où il a grandi) et l'entreprise dans laquelle il travaille.
 
 Ce que vous attendez de ce cours aussi est bienvenu.
 
