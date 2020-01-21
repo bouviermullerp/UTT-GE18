@@ -8,6 +8,10 @@ Crédit : CC-BY
 ---
 
 ## La base: le climat de confiance
+Ce module propose des protocoles et des méthodes pour favoriser l'émergence d'un cadre de confort.
+Point de vigilance : ce ne sont que des protocoles et des méthodes. C'est à dire que s'ils ne sont pas utilisés avec l'intention de partager de la confiance et de soi-même en faire preuve, alors cela peut conduire à de la manipulation.
+
+*un grand pouvoir implique de grandes responsabilités* (Ben Parker)
 
 ### Le cadre de confort
 Le cadre de confiance peut paraitre un peu élémentaire de prime abord.
@@ -84,18 +88,27 @@ Le pré-requis est d'avoir confiance en vous. Faites confiance à votre instinct
 
 ### Le feedback
 
-Le feedback a 2 intérêts :
+#### Echauffement
+1. Pensez à quelqu'un avec qui vous avez travaillé.
+2. Pensez à une situation spécifique pendant laquelle vous avez collaboré.
+3. Ecrivez sur un bout de papier un feedback que vous lui donneriez.
+(ce papier ne sera pas partagé avec le groupe, c'est pour votre propre réflexion).
+
+#### Prérequis
+0 - La confiance et en particulier la prime directive !
+
+**Le feedback a 2 intérêts**:
 - celui de se synchroniser (émotionnellement). La synchronisation fait partie de la nature humaine (voir les travaux en programmation neuro-linguisitique ou sur les neuronnes miroirs par exemple).
 Le feedback permet de renforcer cette synchronisation naturelle pour créer des équipes alignées.
 - transformer les tensions en pépites. Le conflit est inhérent à la vie d'un groupe. Le conflit émerge de la colère, qui est en sentiment puissant qui permet de réaliser de grandes choses, quand on sait le canaliser.
 Le feedback permet de transformer cette tension en pépite.
 
-#### Prérequis
-0 - La prime directive !
-
 1 - Au préalable, déterminer la raison qui fait que je donne du feedback :
 - Renforcer la confiance: aider les gens à comprendre ce qu'ils font bien et à quel point ils sont appréciés,
 - Améliorer l'efficacité: aider les gens à comprendre ce que vous pensez qu'elle pourrait améliorer.
+
+**Suivi**
+Relisez le feedback que vous avez écrit. A-t-il une raison particulière ?
 
 2 - Parler en "je"
 Focaliser sur ce que VOUS avez observez, entendu, ressenti.
