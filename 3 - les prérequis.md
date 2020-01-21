@@ -164,7 +164,7 @@ Cf module spécifique optionnel
 ## confort
 C'est l'object de la fiche suivante.
 
-## Questions, remarques ?
+## Questions, remarques, échanges
 
 ## Table des matières
 - 1 - [Bienvenue](https://bouviermullerp.github.io/UTT-GE18/1%20-%20Bienvenue)
