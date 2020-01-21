@@ -31,8 +31,8 @@ Pour chaque idée, chaque chose proposée, on sollicite le groupe pour détermin
 Exemple avec une suite de fonctionnalités.
 
 
-- L'amélioration continue
-- La résolution de conflits
+- La conduite de projet
+- La prise de décision par consentement
 - Le co-développement
   - Solution Focus
   - 5 Why. Pourquoi, pour quoi ?
@@ -40,5 +40,5 @@ Exemple avec une suite de fonctionnalités.
   - Construire la vision
   - Audit : La spirale dynamique
   - Conduire le changement
-- Les modalités d'élection
-- Concevoir un plan
+- Co-constuire un plan projet
+- La résolution de conflits (difficile)
