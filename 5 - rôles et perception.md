@@ -8,9 +8,9 @@ Crédit : CC-BY
 ---
 
 ## Introduction et mise en situation : d'où tu parles.
-Demander à 2 personnes qui se connaissent de se raconter les dernières vacances.
-Puis demander de former des paires de personnes qui ne se connaissent pas et de raconter la même histoire
-Puis demander de former des paires de recruteurs/recrutés.
+- Demander à 2 personnes qui se connaissent de se raconter les dernières vacances.
+- Puis demander de former des paires de personnes qui ne se connaissent pas et de raconter la même histoire
+- Puis demander de former des paires de recruteurs/recrutés.
 
 Observations ?
 Différences de comportements ?
@@ -85,6 +85,13 @@ C : consulté.
 I : informé.
 
 La méthode RACI : https://www.manager-go.com/gestion-de-projet/dossiers-methodes/matrice-raci
+
+## Les chapeaux de Bono
+
+La méthode des 6 chapeaux est une application de la maïeutique de Socrate développé par Edward de Bono dans son libre *Six chapeaux pour penser*
+C'est une méthode de management personnel ou de groupe permettant d'éviter la censure des idées nouvelles, dérangeantes, inhabituelles.
+
+cf atelier optionnel
 
 
 ## Conclusion
