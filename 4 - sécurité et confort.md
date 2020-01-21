@@ -63,9 +63,9 @@ Ayez le courage de poser des questions et d’exprimer vos vrais désirs. Commun
 - Faites toujours de votre mieux
 Votre “mieux” change d’instant en instant. Quelles que soient les circonstances, faites simplement de votre mieux et vous éviterez de vous juger.
 
-En 2010, en collaboration avec son fils, il a écrit Le cinquième accord toltèque, qui est :
--
-Soyez sceptique, mais apprenez à écouter.
+*En 2010, en collaboration avec son fils, il écrit Le cinquième accord toltèque :**
+
+- Soyez sceptique, mais apprenez à écouter.
 
 Ne vous croyez pas vous-même, ni personne d'autre. Utilisez la force du doute pour remettre en question tout ce que vous entendez : est-ce vraiment la vérité ? Écoutez l'intention qui sous-tend les mots et vous comprendrez le véritable message.
 
@@ -140,7 +140,7 @@ D’un certain point de vue, les êtres humains aspirent tous à vivre dans un m
 
 Source : [Qu'est-ce que la confiance ?](https://www.cairn.info/revue-etudes-2010-1-page-53.htm)
 
-### Questions/Remarques/Echanges
+### Questions, remarques, échanges
 
 ## Table des matières
 - 1 - [Bienvenue](https://bouviermullerp.github.io/UTT-GE18/1%20-%20Bienvenue)
