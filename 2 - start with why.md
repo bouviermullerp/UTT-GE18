@@ -99,7 +99,7 @@ Ce cours s'intéressera donc davantage à la manière dont on fait les choses pl
 
 Ce cours propose des méthodes, des réflexions, des pistes d'amélioration pour tendre vers des entreprises plus éthiques et morales, bien que le contexte global dans lequel elles évoluent et que la manière dont on mesure leur performance (via l'économie en particulier) soit un facteur influançant direct et non négligeable sur leur(s) valeur(s).
 
-## Questions, remarques ?
+## Questions, remarques, échanges
 
 ## Table des matières
 - 1 - [Bienvenue](https://bouviermullerp.github.io/UTT-GE18/1%20-%20Bienvenue)
