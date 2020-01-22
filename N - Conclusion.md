@@ -50,3 +50,8 @@ Source : [Wikipedia](https://fr.wikipedia.org/wiki/Greenwashing)
 
 Il est important de toujours garder à l'esprit pourquoi on fait les choses, leur raison d'être, d'accueillir les critiques et de se rappeler que le mieux est l'ennemi du bien.
 Je vous souhaite de réaliser vos projets avec équilibre, bienveillance et pragmatisme.
+
+## Conclusion
+- Ne rien prendre au pied de la lettre, faire preuve d'esprit critique.
+- Prendre du recul, mieux se connaitre
+- Toujours garder en mémoire pourquoi et pour quoi
